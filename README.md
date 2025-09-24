@@ -1,4 +1,4 @@
-# Consumo-de-Caf-en-J-venes-Universitarios
+# Consumo-de-Cafe-en-Jovenes-Universitarios
 
 ¿Que factores influyen en que los estudiantes universitarios consumo mas cafe: el nivel de estres academico, el horario de clases o el acceso a cafeterias cercanas?
 
