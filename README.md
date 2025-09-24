@@ -14,3 +14,7 @@
 -Accesibilidad: Distancia a cafeterias dentro a/o cerca del campus, Precio promedio del cafe.
 
 -Otros posibles factores: Actividades extracurriculares, Horas de sueño, Ingresos economicos.
+
+## Objetivo
+
+Analizar los factores que influyen en el consumo de cafe en estudiantes universitarios, considerando el nivel de estres academico, los horarios de clases y la accesibilidad a cafeterias, con el fin de identificar patrones de consumo y su relacion con el contexto academico y personal de los jovenes.
