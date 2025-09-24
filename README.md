@@ -2,8 +2,10 @@
 
 ¿Que factores influyen en que los estudiantes universitarios consumo mas cafe: el nivel de estres academico, el horario de clases o el acceso a cafeterias cercanas?
 
-![f49dd41e43a7df8687d7381adf5fa7cb](https://github.com/user-attachments/assets/a5b1b4bf-bae5-4400-b5bd-113d5c9c3ee2)
 
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/a5b1b4bf-bae5-4400-b5bd-113d5c9c3ee2"alt="Descripcion de la imagen" width="40%>
+     </div>
 
 
 
