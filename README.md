@@ -5,6 +5,7 @@
 ![f49dd41e43a7df8687d7381adf5fa7cb](https://github.com/user-attachments/assets/a5b1b4bf-bae5-4400-b5bd-113d5c9c3ee2)
 
 
+
 ## Elementos de datos necesarios:
 - Datos demograficos: Edad, Genero, Carrera, año academico.
 
