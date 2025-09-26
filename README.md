@@ -27,6 +27,8 @@ Este proyecto tiene como objetivo investigar qué factores influyen en el consum
 
 El análisis de estos datos nos permitirá identificar patrones de consumo y establecer conexiones entre las diferentes variables. Así, podremos entender mejor los hábitos de los estudiantes y cómo se relacionan con su entorno universitario. 
 
+
+
 ## Objetivo
 
 Analizar los factores que influyen en el consumo de cafe en estudiantes universitarios, considerando el nivel de estres academico, los horarios de clases y la accesibilidad a cafeterias, con el fin de identificar patrones de consumo y su relacion con el contexto academico y personal de los jovenes.
