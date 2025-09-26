@@ -8,7 +8,6 @@
 </p>
 
 
-
   
 ## Elementos de datos necesarios:
 - Datos demograficos: Edad, Genero, Carrera, año academico.
