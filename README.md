@@ -31,6 +31,10 @@ Este proyecto tiene como objetivo investigar qué factores influyen en el consum
 
 El análisis de estos datos nos permitirá identificar patrones de consumo y establecer conexiones entre las diferentes variables. Así, podremos entender mejor los hábitos de los estudiantes y cómo se relacionan con su entorno universitario. 
 
+## Fuentes de información
+
+https://www.kaggle.com/datasets/maxwellvaz/consumistas-de-cafe
+
 
   
 ## Objetivo
