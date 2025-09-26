@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/a5b1b4bf-bae5-4400-b5bd-113d5c9c3ee2" alt="Descripción de la imagen" width=800"/>
 </p>
 
-<div style="text-align: justify;">
+
 
   
 ## Elementos de datos necesarios:
@@ -23,9 +23,7 @@
 
 - Otros posibles factores: Actividades extracurriculares, Horas de sueño, Ingresos economicos.
 
-</div>
 
-<div style="text-align: justify;">
 
   
 ## Descripcion del proyecto
@@ -35,13 +33,9 @@ Este proyecto tiene como objetivo investigar qué factores influyen en el consum
 El análisis de estos datos nos permitirá identificar patrones de consumo y establecer conexiones entre las diferentes variables. Así, podremos entender mejor los hábitos de los estudiantes y cómo se relacionan con su entorno universitario. 
 
 
-</div>
-
-<div style="text-align: justify;">
   
 ## Objetivo
 
 Analizar los factores que influyen en el consumo de cafe en estudiantes universitarios, considerando el nivel de estres academico, los horarios de clases y la accesibilidad a cafeterias, con el fin de identificar patrones de consumo y su relacion con el contexto academico y personal de los jovenes.
 
 
-</div>
