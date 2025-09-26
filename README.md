@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/a5b1b4bf-bae5-4400-b5bd-113d5c9c3ee2" alt="Descripción de la imagen" width=800"/>
 </p>
 
-
+<div style="text-align: justify;">
 ## Elementos de datos necesarios:
 - Datos demograficos: Edad, Genero, Carrera, año academico.
 
@@ -32,3 +32,4 @@ El análisis de estos datos nos permitirá identificar patrones de consumo y est
 ## Objetivo
 
 Analizar los factores que influyen en el consumo de cafe en estudiantes universitarios, considerando el nivel de estres academico, los horarios de clases y la accesibilidad a cafeterias, con el fin de identificar patrones de consumo y su relacion con el contexto academico y personal de los jovenes.
+</div>
