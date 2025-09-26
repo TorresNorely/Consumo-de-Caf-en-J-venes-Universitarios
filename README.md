@@ -14,7 +14,7 @@
 
 - Habitos de consummo: Cantidad de tazas de cafe al dia, Horarios de consumo. 
 
-- Factores academicos: Numero de creditos matriculados, Numero de examenes al mes, Nivel de dificultad persivido en las asignaturas.
+- Factores academicos: Numero de creditos matriculados, Numero de examenes al mes, Nivel de dificultad persivido en las asignaturas. 
 
 - Nivel de estres: Autoevaluacion mediante encuestas o escalas psicologicas validas.
 
