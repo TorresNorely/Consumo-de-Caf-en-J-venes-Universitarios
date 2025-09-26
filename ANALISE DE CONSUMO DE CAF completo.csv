@@ -1,0 +1,251 @@
+CONSUMISTA;ENTREVISTADOS;SEXO;IDADE;EST.CIVIL;ESCOLARIDADE;OCUPACAO;ATRIB. COMPRA DE CAFÉ;ASPECTOS AO NÃO CONSUMO;BEBIDAS QUE SUBSTITUEM O CAFÉ;ATRIBUTOS ISOLADOS DO PRODUTO
+;;;;;;;;;;
+NÃO;1;M;17;SOLTEIRO;1° grau incompleto;Estudante;NÃO;NÃO GOSTO;SUCOS;TODOS
+NÃO;2;M;18;SOLTEIRO;1° grau incompleto;Estudante;NÃO;NÃO GOSTO;SUCOS;TODOS
+NÃO;3;M;20;SOLTEIRO;2° grau incompleto;Estudante;NÃO;NÃO GOSTO;SUCOS;TODOS
+NÃO;4;M;24;SOLTEIRO;2° grau completo;Estudante;NÃO;NÃO GOSTO;SUCOS;TODOS
+NÃO;5;M;25;SOLTEIRO; 1° grau completo;Estudante;NÃO;NÃO GOSTO;SUCOS;AROMA
+NÃO;6;M;29;SOLTEIRO;2° grau completo;Estudante;NÃO;NÃO GOSTO;SUCOS;AROMA
+NÃO;7;M;21;SOLTEIRO;2° grau completo;Estudante;NÃO;NÃO GOSTO;SUCOS;AROMA
+NÃO;8;M;23;SOLTEIRO;2° grau completo;Estudante;NÃO;NÃO GOSTO;SUCOS;AROMA
+NÃO;9;M;25;SOLTEIRO;2° grau completo;Estudante;NÃO;NÃO GOSTO;SUCOS;AROMA
+NÃO;10;M;24;SOLTEIRO;2° grau completo;Estudante;NÃO;NÃO GOSTO;SUCOS;AROMA
+NÃO;11;M;30;SOLTEIRO;2° grau completo;Estudante;NÃO;NÃO GOSTO;SUCOS;AROMA
+NÃO;12;M;35;SOLTEIRO;2° grau completo;Autonomo;NÃO;NÃO GOSTO DO SABOR;CHAS;AROMA
+NÃO;13;M;38;SOLTEIRO;2° grau completo;Autonomo;NÃO;NÃO GOSTO DO SABOR;CHAS;AROMA
+NÃO;14;M;33;SOLTEIRO;2° grau completo;Autonomo;NÃO;POR RESTRIÇÕES MEDICAS;CHAS;AROMA
+NÃO;15;M;64;UNIAO ESTAVEL;2° grau completo;Autonomo;NÃO;POR RESTRIÇÕES MEDICAS;CHAS;AROMA
+NÃO;16;M;40;UNIAO ESTAVEL;2° grau completo;Autonomo;NÃO;POR RESTRIÇÕES MEDICAS;LEITE;NENHUM
+NÃO;17;M;43;UNIAO ESTAVEL;2° grau completo;Autonomo;NÃO;ACREDITA QUE FAZ MAL A SAUDE;LEITE;SABOR
+NÃO;18;M;45;UNIAO ESTAVEL; Superior incompleto;Func.público;NÃO;ACREDITA QUE FAZ MAL A SAUDE;LEITE;NENHUM
+NÃO;19;M;51;UNIAO ESTAVEL; Superior incompleto;Func.público;NÃO;POR FALTA DE HABITO;LEITE;NENHUM
+NÃO;20;M;53;UNIAO ESTAVEL; Superior incompleto;Func.público;NÃO;POR FALTA DE HABITO;LEITE;NENHUM
+NÃO;21;M;52;UNIAO ESTAVEL; Superior incompleto;Func.público;NÃO;POR FALTA DE HABITO;LEITE;NENHUM
+NÃO;22;M;58;UNIAO ESTAVEL; Superior incompleto;Empresario;NÃO;POR FALTA DE HABITO;LEITE;NENHUM
+NÃO;23;M;65;UNIAO ESTAVEL;Superior completo;Empresario;NÃO;OUTROS;LEITE;AROMA
+NÃO;24;M;66;DIVORCIADO;Pós-graduaçao incompleto;Empresario;NÃO;OUTROS;LEITE;AROMA
+NÃO;25;M;60;DIVORCIADO;Pós-graduaçao incompleto;Empresario;NÃO;NÃO GOSTO;LEITE;AROMA
+NÃO;26;F;19;SOLTEIRO;1° grau incompleto;Estudante;NÃO;NÃO GOSTO;CHAS;AROMA
+NÃO;27;F;18;SOLTEIRO;2° grau completo;Estudante;NÃO;NÃO GOSTO;CHAS;NENHUM
+NÃO;28;F;22;SOLTEIRO;2° grau completo;Func. empresa privada;NÃO;NÃO GOSTO;CHAS;NENHUM
+NÃO;29;F;25;SOLTEIRO; 1° grau completo;Func. empresa privada;NÃO;NÃO GOSTO;CHAS;AROMA
+NÃO;30;F;21;SOLTEIRO; 1° grau completo;Func. empresa privada;NÃO;NÃO GOSTO;CHAS;AROMA
+NÃO;31;F;29;SOLTEIRO; Superior incompleto;Func. empresa privada;NÃO;NÃO GOSTO;SUCOS;AROMA
+NÃO;32;F;28;VIUVA; Superior incompleto;Func. empresa privada;NÃO;POR RESTRIÇÕES MEDICAS;SUCOS;NENHUM
+NÃO;33;F;27;VIUVA; Superior incompleto;Func. empresa privada;NÃO;POR RESTRIÇÕES MEDICAS;SUCOS;NENHUM
+NÃO;34;F;22;UNIAO ESTAVEL; Superior incompleto;Dona de casa;NÃO;POR RESTRIÇÕES MEDICAS;SUCOS;NENHUM
+NÃO;35;F;20;UNIAO ESTAVEL;Superior completo;Autonomo;NÃO;ACREDITA QUE FAZ MAL A SAUDE;LEITE;NENHUM
+NÃO;36;F;28;UNIAO ESTAVEL;Superior completo;Autonomo;NÃO;ACREDITA QUE FAZ MAL A SAUDE;LEITE;NENHUM
+NÃO;37;F;31;UNIAO ESTAVEL;Superior completo;Autonomo;NÃO;POR FALTA DE HABITO;LEITE;NENHUM
+NÃO;38;F;39;UNIAO ESTAVEL;Superior completo;Dona de casa;NÃO;POR FALTA DE HABITO;REFRIGERANTES;NENHUM
+NÃO;39;F;35;UNIAO ESTAVEL;Pós-graduaçao incompleto;Func.público;NÃO;POR FALTA DE HABITO;REFRIGERANTES;SABOR
+NÃO;40;F;30;UNIAO ESTAVEL;Pós-graduaçao incompleto;Dona de casa;NÃO;POR FALTA DE HABITO;REFRIGERANTES;NENHUM
+NÃO;41;F;49;UNIAO ESTAVEL;Pós-graduaçao incompleto;Empresario;NÃO;POR FALTA DE HABITO;CEVADAS;NENHUM
+NÃO;42;F;50;VIUVA;Pós-graduaçao incompleto;Outros;NÃO;POR FALTA DE HABITO;CEVADAS;NENHUM
+SIM;43;M;15;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;44;M;16;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;45;M;17;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;46;M;18;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;47;M;19;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;48;M;15;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;49;M;16;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;50;M;17;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;51;M;18;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;52;M;19;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;53;M;20;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;54;M;21;SOLTEIRO;1° grau incompleto;Estudante;PRECO;;;
+SIM;55;M;22;SOLTEIRO; 1° grau completo;Estudante;PRECO;;;
+SIM;56;M;23;SOLTEIRO; 1° grau completo;Estudante;PRECO;;;
+SIM;57;M;24;SOLTEIRO; 1° grau completo;Estudante;PRECO;;;
+SIM;58;M;25;SOLTEIRO; 1° grau completo;Estudante;PRECO;;;
+SIM;59;M;26;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;60;M;27;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;61;M;28;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;62;M;29;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;63;M;20;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;64;M;21;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;65;M;22;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;66;M;23;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;67;M;24;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;68;M;25;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;69;M;26;SOLTEIRO; 1° grau completo;Estudante;MARCA;;;
+SIM;70;M;27;SOLTEIRO; 1° grau completo;Func.público;MARCA;;;
+SIM;71;M;28;SOLTEIRO; 1° grau completo;Func.público;MARCA;;;
+SIM;72;M;29;SOLTEIRO; 1° grau completo;Func.público;MARCA;;;
+SIM;73;M;30;SOLTEIRO; 1° grau completo;Func.público;MARCA;;;
+SIM;74;M;31;SOLTEIRO; 1° grau completo;Func.público;MARCA;;;
+SIM;75;M;32;SOLTEIRO; 1° grau completo;Func.público;MARCA;;;
+SIM;76;M;33;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;77;M;34;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;78;M;35;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;79;M;36;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;80;M;37;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;81;M;38;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;82;M;39;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;83;M;30;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;84;M;31;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;85;M;32;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;86;M;33;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;87;M;34;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;88;M;35;SOLTEIRO;2° grau incompleto;Func.público;MARCA;;;
+SIM;89;M;36;UNIAO ESTAVEL;2° grau incompleto;Func.público;MARCA;;;
+SIM;90;M;37;UNIAO ESTAVEL;2° grau incompleto;Func.público;MARCA;;;
+SIM;91;M;38;UNIAO ESTAVEL;2° grau incompleto;Func.público;MARCA;;;
+SIM;92;M;39;UNIAO ESTAVEL;2° grau incompleto;Func.público;MARCA;;;
+SIM;93;M;30;UNIAO ESTAVEL;2° grau incompleto;Func.público;MARCA;;;
+SIM;94;M;31;UNIAO ESTAVEL;2° grau incompleto;Func.público;MARCA;;;
+SIM;95;M;32;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;96;M;33;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;97;M;34;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;98;M;35;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;99;M;36;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;100;M;37;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;101;M;38;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;102;M;39;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;103;M;40;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;104;M;41;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;105;M;42;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;106;M;43;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;107;M;44;UNIAO ESTAVEL;2° grau completo;Func.público;MARCA;;;
+SIM;108;M;45;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;109;M;46;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;110;M;47;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;111;M;48;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;112;M;49;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;113;M;40;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;114;M;41;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;115;M;42;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;116;M;43;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;117;M;44;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;118;M;45;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;119;M;46;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;120;M;47;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;121;M;48;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;122;M;49;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;123;M;40;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;124;M;41;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;125;M;42;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;126;M;43;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;127;M;44;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;128;M;45;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;129;M;46;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;130;M;47;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;131;M;48;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;132;M;49;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;133;M;50;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;134;M;51;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;135;M;52;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;136;M;53;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;137;M;54;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;138;M;55;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;139;M;56;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;140;M;57;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;141;M;58;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;142;M;59;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;143;M;50;UNIAO ESTAVEL;2° grau completo;Autonomo;MARCA;;;
+SIM;144;M;51;UNIAO ESTAVEL;2° grau completo;Autonomo;QUALIDADE;;;
+SIM;145;M;52;UNIAO ESTAVEL;2° grau completo;Autonomo;QUALIDADE;;;
+SIM;146;M;53;UNIAO ESTAVEL;2° grau completo;Autonomo;QUALIDADE;;;
+SIM;147;M;54;UNIAO ESTAVEL;2° grau completo;Autonomo;QUALIDADE;;;
+SIM;148;M;55;UNIAO ESTAVEL;2° grau completo;Empresario;QUALIDADE;;;
+SIM;149;M;56;UNIAO ESTAVEL;2° grau completo;Empresario;QUALIDADE;;;
+SIM;150;M;57;UNIAO ESTAVEL;2° grau completo;Empresario;QUALIDADE;;;
+SIM;151;M;58;UNIAO ESTAVEL;2° grau completo;Empresario;QUALIDADE;;;
+SIM;152;M;59;UNIAO ESTAVEL;2° grau completo;Empresario;QUALIDADE;;;
+SIM;153;M;50;VIUVA;2° grau completo;Empresario;QUALIDADE;;;
+SIM;154;M;51;VIUVA;2° grau completo;Empresario;QUALIDADE;;;
+SIM;155;M;52;VIUVA;2° grau completo;Empresario;QUALIDADE;;;
+SIM;156;M;53;VIUVA;2° grau completo;Empresario;QUALIDADE;;;
+SIM;157;M;54;VIUVA;2° grau completo;Empresario;QUALIDADE;;;
+SIM;158;M;55;VIUVA;2° grau completo;Empresario;QUALIDADE;;;
+SIM;159;M;56;VIUVA;2° grau completo;Empresario;QUALIDADE;;;
+SIM;160;M;57;VIUVA;2° grau completo;Empresario;QUALIDADE;;;
+SIM;161;F;58;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;162;F;60;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;163;F;17;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;164;F;18;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;165;F;19;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;166;F;15;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;167;F;16;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;168;F;17;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;169;F;18;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;170;F;19;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;171;F;20;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;172;F;21;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;173;F;22;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;174;F;23;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;175;F;24;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;176;F;25;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;177;F;26;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;178;F;27;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;179;F;28;SOLTEIRO;2° grau completo;Dona de casa;QUALIDADE;;;
+SIM;180;F;29;SOLTEIRO; Superior incompleto;Dona de casa;QUALIDADE;;;
+SIM;181;F;29;SOLTEIRO; Superior incompleto;Empresario;QUALIDADE;;;
+SIM;182;F;28;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;183;F;27;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;184;F;27;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;185;F;30;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;186;F;31;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;187;F;32;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;188;F;33;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;189;F;34;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;190;F;35;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;191;F;36;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;192;F;37;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;193;F;38;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;194;F;39;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;195;F;32;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;196;F;40;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;197;F;41;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;198;F;42;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;199;F;43;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;200;F;44;SOLTEIRO; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;201;F;45;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;202;F;46;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;203;F;47;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;204;F;50;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;205;F;51;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;206;F;52;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;207;F;53;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;208;F;54;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;209;F;55;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;210;F;56;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;211;F;57;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;212;F;58;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;213;F;59;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;214;F;50;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;215;F;51;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;216;F;52;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;217;F;53;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;218;F;54;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;219;F;55;UNIAO ESTAVEL; Superior incompleto;Func. empresa privada;QUALIDADE;;;
+SIM;220;F;56;UNIAO ESTAVEL;Superior completo;Func. empresa privada;QUALIDADE;;;
+SIM;221;F;57;UNIAO ESTAVEL;Superior completo;Func. empresa privada;EMBALAGEM;;;
+SIM;222;F;58;UNIAO ESTAVEL;Superior completo;Func. empresa privada;EMBALAGEM;;;
+SIM;223;F;59;UNIAO ESTAVEL;Superior completo;Func. empresa privada;LOCAL DE CONSUMO;;;
+SIM;224;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;LOCAL DE CONSUMO;;;
+SIM;225;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;LOCAL DE CONSUMO;;;
+SIM;226;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;LOCAL DE CONSUMO;;;
+SIM;227;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;LOCAL DE CONSUMO;;;
+SIM;228;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;LOCAL DE CONSUMO;;;
+SIM;229;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;230;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;231;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;232;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;233;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;234;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;235;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;236;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;237;F;60;UNIAO ESTAVEL;Superior completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;238;F;60;UNIAO ESTAVEL;Pós-graduaçao completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;239;F;60;UNIAO ESTAVEL;Pós-graduaçao completo;Func. empresa privada;SELO DE PUREZA;;;
+SIM;240;F;60;UNIAO ESTAVEL;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;241;F;60;VIUVA;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;242;F;60;VIUVA;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;243;F;60;VIUVA;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;244;F;60;VIUVA;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;245;F;60;DIVORCIADO;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;246;F;60;DIVORCIADO;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;247;F;60;DIVORCIADO;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;248;F;60;DIVORCIADO;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
+SIM;249;F;60;DIVORCIADO;Pós-graduaçao completo;Outros;SELO DE PUREZA;;;
